@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: server1
-        image: mariemksontini/server1:1
+        image: mariemksontini/server2:1
         ports:
         - containerPort: 3000
