@@ -1,1 +1,1 @@
-# Mini-Projet-D-ploiement-GitOps-
+# Mini-Projet-Deploiement-GitOps-
